@@ -604,9 +604,13 @@ Spring Boot 프로젝트 맛있는재활용
 
 <br/>
 
-### 7️⃣ API 설계
+### 7️⃣ API 설계 & 화면 구상
 
 ![apiImage](https://github.com/user-attachments/assets/746233b8-ccf0-4b9d-832d-b21b0ea88e05)<br><br>
+![맛있는 재활용 메뉴트리 drawio](https://github.com/user-attachments/assets/4f7dc13c-4957-4b3b-97a2-781213d4212f)<br>
+![서비스 흐름도](https://github.com/user-attachments/assets/2673855c-49d3-400b-b525-3c1195bcfbf6)<br>
+![플로우차트](https://github.com/user-attachments/assets/1bdc13e8-9b98-42f6-85db-119804ccc2c3)<br>
+
 
 ## 개발 내용
 
