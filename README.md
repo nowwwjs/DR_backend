@@ -614,7 +614,7 @@ Spring Boot 프로젝트 맛있는재활용
 
 ## 개발 내용
 
-- <a href="https://blog.naver.com/starve1304" target="_blank">맛있는 재활용 기술 블로그</a>
+- <a href="https://blog.naver.com/starve1304/223676996727" target="_blank">맛있는 재활용 기술 블로그</a>
 <br>
 
 ## 마치며   
